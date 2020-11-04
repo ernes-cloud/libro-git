@@ -1,1 +1,8 @@
-Chacon, S. and Straub, B. Pro Git. Apress.
+Scott Chacon and Ben Straub. Pro Git. Apress.
+- Ryan Hodson. Ry's Git Tutorial. Smashwords (2014)
+Ctrl+D
+> git commit -a -m "Añadida nueva referencia bibliográfica."
+> git checkout master
+> cat > bibliografia.txt
+- Chacon, S. and Straub, B. Pro Git. Apress.
+- Loeliger, J. and McCullough, M. Version control with Git. O'Reilly.[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[[A[C[B[[[A[[A[[A[[A[C[C[C[C[B[B[B[B[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[3~[C[3~[3~[3~[C[3~[3~[C[3~[3[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[A[B[B[B[B[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[A[[B
